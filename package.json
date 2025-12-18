@@ -1,0 +1,26 @@
+{
+  "name": "mesto-ad",
+  "version": "1.0.0",
+  "description": "Стартовый набор для выполнения проектной работы Место",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selambensaas123/mesto-ad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "bugs": {
+    "url": "https://github.com/selambensaas123/mesto-ad/issues"
+  },
+  "homepage": "https://github.com/selambensaas123/mesto-ad#readme",
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
